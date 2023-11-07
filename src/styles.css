@@ -1,0 +1,18 @@
+/* Style for the slideshow container */
+.slideshow-container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Style for the individual slides */
+.slide {
+    display: none;
+    width: 100%;
+}
+
+/* Style for the images inside each slide */
+.slide img {
+    width: 100%;
+    height: auto;
+}
